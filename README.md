@@ -6,11 +6,7 @@
 - Ruoxin Xiong, Department of Civil and Environmental Engineering
 - Tingxuan Gu, Information Networking Institute
 
-## Introduction
-
-This project aims to provide context-aware information displays for building inspection. We designed two modules to achieve the project goal: indoor localization and
-Augmented Reality (AR) based context-aware information display. Workers perform building inspection tasks following predefined procedures to ensure building operation
-efficiency. We plan to display context-aware information to inspection workers based on detected worker location and task progress.
+This project aims to provide context-aware information displays for building inspection. We designed two modules to achieve the project goal: indoor localization and Augmented Reality (AR) based context-aware information display. Workers perform building inspection tasks following predefined procedures to ensure building operation efficiency.
 
 ## Framework
 [![Unity Package](XX)](https://drive.google.com/drive/folders/1RqyDGQ7RchUg05vmVt2wfOSvghjCuqq9?usp=sharing)
