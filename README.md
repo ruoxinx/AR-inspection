@@ -19,3 +19,14 @@ This project aims to provide context-aware information displays for building ins
 ## Unity Package Download
 
 [![Unity Package](XX)](https://drive.google.com/drive/folders/1RqyDGQ7RchUg05vmVt2wfOSvghjCuqq9?usp=sharing)
+
+## **Further reading**
+
+```
+@article{liu2022sharing,
+  title={Sharing Construction Safety Inspection Experiences and Site-Specific Knowledge through XR-Augmented Visual Assistance},
+  author={Liu, Pengkun and Xing, Jinding and Xiong, Ruoxin and Tang, Pingbo},
+  journal={arXiv preprint arXiv:2205.15833},
+  year={2022}
+}
+```
